@@ -7,7 +7,7 @@ In this module, we are going to deploy an API into Amazon ECS and running on AWS
 
 We're going to build an API to convert a Markdown input into HTML and store the requests in a database.
 Diagram Architecture
-![copilot fargate architecture diagram](../00-image/copilot-fargate-1.png.png "opilot fargate architecture diagram")
+![copilot fargate architecture diagram](../00-image/copilot-fargate-1.png "copilot fargate architecture diagram")
 Module Dependencies
 
 This module doesn't have any dependencies.
